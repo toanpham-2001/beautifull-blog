@@ -1,0 +1,184 @@
+body {
+    color: #5f402d;
+    background-color: white;
+}
+
+#header {
+    /* margin-top: 125px; */
+    font-family: Courier New;
+    text-align: center;
+    line-height: 10px;
+    width: 800px;
+    border: 1px solid beige;
+    margin-left: 340px;
+    background-color: #FFDAB9;
+    border-radius: 5px;
+}
+
+#nav {
+    clear: both;
+    padding-top: 10px;
+    text-align: center;
+    margin-top: 55px;
+    margin-bottom: 45px;
+    font: 13px Montserrat, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    margin: auto;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: #FFDAB9;
+    width: 70%;
+    text-align: center;
+}
+
+li {
+    float: left;
+    font-size: 18px;
+    margin-right: 20px;
+    margin-left: 30px;
+}
+
+li a,
+.dropls {
+    display: inline-block;
+    color: #7a5f4f;
+    text-decoration: none;
+    text-align: left;
+    padding: 16px 14px;
+}
+
+li a:hover,
+.dropdown:hover .dropls {
+    background-color: white;
+}
+
+li.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: #7a5f4f;
+    padding: 15px 15px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: white;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+#content {
+    margin: 25px 50px 25px 100px;
+    width: 55%;
+    float: left;
+    border-right: 2px solid #7a5f4f;
+    padding-right: 45px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: stretch;
+    align-content: stretch;
+}
+
+img.anh1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    margin: 10px;
+}
+
+.post {
+    width: 50%
+}
+
+.row {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+table {
+    font: 15px "Raleway", sans-serif;
+    width: 800px;
+}
+
+td {
+    line-height: 20px;
+}
+
+.title {
+    padding-left: 280px !important;
+    margin-top: -50px;
+}
+
+.rightcolumn h2 {
+    text-align: center;
+}
+
+.card {
+    padding: 0;
+    background-color: white;
+}
+
+.rightcolumn {
+    width: 30%;
+    position: absolute;
+    top: 300px;
+    right: 120px;
+}
+
+.post {
+    margin-left: 190px;
+    margin-bottom: 10px !important;
+}
+
+.space-one {
+    margin-top: 90px;
+}
+
+
+/* .space-two {
+    margin-top: 124px;
+  }
+
+  .space-three {
+    margin-top: 265px;
+  } */
+
+.resume2:hover,
+.resume2:active {
+    font-size: 150%;
+    color: red;
+}
+
+.resume2 {
+    text-decoration: none;
+    color: #7a5f4f;
+    background-color: #FFDAB9;
+    border: solid #FFDAB9;
+    padding: 5px 8px 5px 8px;
+}
+
+
+/* #footer {clear: left;font-size: 15px; background-color:#FFDAB9; height: 250px; padding-top: 24px; padding-bottom: 15px; }	 */
