@@ -102,14 +102,13 @@
     <p><b>2021 A WEBSITE BY WINX</b></p>
     <div class="author">
       <p style="font-size: large;">Author: Two-Life<br>
-        <a href="mailto:giangducngo06@gmail.com" style="text-decoration: none; color:black">GỬI MAIL CHO CHÚNG TÔI</a>
+        <a href="mailto:toan01nb@gmail.com" style="text-decoration: none; color:black">GỬI MAIL CHO CHÚNG TÔI</a>
       </p>
     </div>
     <div class="adress" style="text-align:left">
       Văn phòng làm việc chính:
-      <p>Trường Đại học Thương Mại</p>
-      <p>79-Hồ Tùng Mậu-Cầu Giấy-Hà Nội</p>
-      <p>Tòa nhà B: Lớp Thiết Kế Web</p>
+      <p>Trường Đại học Điện Lực</p>
+      <p>235-Hoàng Quốc Việt-Bắc Từ Liêm-Hà Nội</p>    
     </div>
   </div> -->
 
